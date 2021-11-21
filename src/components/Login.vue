@@ -59,7 +59,7 @@ export default {
              valid: false,
              password: '',
              passwordRules: [
-                 (v) => !!v || 'Password Tidak Boleh Kosong :(',
+                 (v) => !!v || 'Password Tidak Boleh Koson :(',
              ],
              email: '',
              emailRules: [
